@@ -13,4 +13,24 @@ Every graphic has been realized through ADOBE Illustrator.
 The database on which user information is allocated has been implemented with the MySQL server APACHE.
 
 
-the following project is for illustration purposes only.
+the following project is for illustration purposes only.<br><br>
+**Click this link to see and try the project**
+<br>
+https://vendoaccount.altervista.org/
+<br>
+<h2> Images </h2>
+
+<img src="screenshot/vendoaccount-1.jpg" width="60%"/>
+Screenshot 1
+
+
+<img src="screenshot/vendoaccount-2.jpg" width="60%">
+ Screenshot2
+ 
+ <img src="screenshot/vendoaccount.png" width="40%"/>
+ Home page
+ 
+ <img src="screenshot/venodaccount_responsive-design.png" width="20%"/>
+ Responisive home page
+ 
+ 
