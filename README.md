@@ -17,6 +17,8 @@ the following project is for illustration purposes only.<br><br>
 https://vendoaccount.altervista.org/
 <br>
 <h2> Images </h2>
+<img src="screenshot/screenshot-3.jpg" width="60%"/>
+Responsive design Google Audits
 
 <img src="screenshot/vendoaccount-1.jpg" width="60%"/>
 Screenshot 1
@@ -28,7 +30,7 @@ Screenshot 1
  <img src="screenshot/vendoaccount.png" width="40%"/>
  Home page
  
- <img src="screenshot/venodaccount_responsive-design.png" width="20%"/>
- Responisive home page
+ 
+ 
  
  
