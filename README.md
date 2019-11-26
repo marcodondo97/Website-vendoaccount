@@ -1,6 +1,6 @@
-# Vendoaccount_website
+# Website-vendoaccount
 
-<h2>Introduction</h2>
+<h2>Introduction </h2>
 The project is a real website which aim is to profile users and allow them to insert announcements to sell their social profiles or games accounts, domains, digital advertising spaces.
 In addition to this I added a messaging system, like a forum site, in order to give users the opportunity to write under the relevant ads.
 
