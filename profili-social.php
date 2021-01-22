@@ -24,7 +24,6 @@ $i=0;
 <head>
     <title>Profili social like e follower in vendita</title>
     <meta charset="UTF-8" />
-    <meta name="author" content="Marco Dondo" />
     <meta name="description" content="Cerca tra gli annunci account social network con molti followers in vendita." />
     <meta name="keywords" content="Aumentare i seguaci, fan, facebook, instagram, iscritti, youtube, seguaci, mi piace , like " />
     <meta name="dc.language" content="ita" scheme="RFC1766" />
