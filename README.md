@@ -11,7 +11,7 @@ The database has been implemented with MySQL.
 Every graphic has been realized through ADOBE Illustrator.
 
 
-the following project is for illustration purposes only.<br><br>
+The following project is for illustration purposes only.<br><br>
 <b>Click this link to see and try the project</b>
 <br>
 https://vendoaccount.altervista.org/
