@@ -6,7 +6,7 @@ In addition to this I added a messaging system, like a forum site, in order to g
 
 <h2>Description</h2>
 The site was built entirely in PHP.
-The design is full responsive to adapt to navigation from smartphone or tablet. The template elements have been inserted through bootstrap 4, HTML5 and CSS3, and also JQuery library and animate.css 
+The design is full responsive to adapt the navigation from smartphone or tablet. The template elements have been inserted through bootstrap 4, HTML5 and CSS3, JQuery library and animate.css 
 The database has been implemented with MySQL.
 Every graphic has been realized through ADOBE Illustrator.
 
