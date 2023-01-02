@@ -1,7 +1,7 @@
 # Website-vendoaccount
 
 <h2>Introduction </h2>
-The project is a real website, the goal is to profile users and allow them to insert announcements to sell their social profiles or games accounts, domains, digital advertising spaces.
+The project is a real website, the goal is to profile users and allow them to insert ads to sell their social profiles or games accounts, domains, digital advertising spaces.
 In addition to this I added a messaging system, like a forum site, in order to give users the opportunity to write under the relevant ads.
 
 <h2>Description</h2>
